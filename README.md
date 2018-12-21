@@ -7,11 +7,11 @@ A simple dictionary-based sentiment analysis system with Russian language suppor
 
 ## Installation
 ```
-pip install -U git+https://github.com/text-machine-lab/sentimental.git
+pip install -U git+https://github.com/cfcayan/sentimental.git
 ```
 or
 ```
-pip install -U git+ssh://git@github.com/text-machine-lab/sentimental.git
+pip install -U git+ssh://git@github.com/cfcayan/sentimental.git
 ```
 
 
